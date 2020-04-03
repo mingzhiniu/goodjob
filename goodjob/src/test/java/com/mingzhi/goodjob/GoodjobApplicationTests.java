@@ -8,6 +8,7 @@ class GoodjobApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("this is test log");
 	}
 
 }
