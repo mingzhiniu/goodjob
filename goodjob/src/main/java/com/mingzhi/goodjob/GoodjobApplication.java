@@ -35,7 +35,7 @@ public class GoodjobApplication {
 	
 	
 //	掌握日志打印配置文件意思
-//	git提交忽略文件
+//	git提交忽略文件学习
 	
 	
 //	nginx使用
